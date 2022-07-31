@@ -1,0 +1,93 @@
+06-23 20:30:59.913 12604 12636 I TestRunner: started: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+06-23 20:30:59.918 12604 12604 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@6987f85 in: DESTROYED
+06-23 20:30:59.928 12604 12636 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-23 20:30:59.964  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:59.968  2065  4642 I chatty  : uid=1000(system) Binder:2065_1A identical 28 lines
+06-23 20:30:59.968  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:59.968 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@c15a59e
+06-23 20:30:59.970  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:59.971  2065  4642 I chatty  : uid=1000(system) Binder:2065_1A identical 8 lines
+06-23 20:30:59.971  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:59.976  2065  2099 E system_server: Invalid ID 0x00000000.
+06-23 20:31:00.006 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: PRE_ON_CREATE
+06-23 20:31:00.006 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.027 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: CREATED
+06-23 20:31:00.028 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.029 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: STARTED
+06-23 20:31:00.029 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.047  1769  2785 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:31:00.055  2240  2240 D KeyguardClockSwitch: Updating clock: 831
+06-23 20:31:00.067 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: RESUMED
+06-23 20:31:00.067 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.068 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: PAUSED
+06-23 20:31:00.068 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.070  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:31:00.085  2065  4642 I chatty  : uid=1000(system) Binder:2065_1A identical 48 lines
+06-23 20:31:00.085  2065  4642 W InputReader: Device has associated, but no associated display id.
+06-23 20:31:00.091 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@6184895
+06-23 20:31:00.097 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911 in: PRE_ON_CREATE
+06-23 20:31:00.098 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-23 20:31:00.117 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911 in: CREATED
+06-23 20:31:00.117 12604 12604 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911
+06-23 20:31:00.118  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:31:00.123 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911 in: STARTED
+06-23 20:31:00.123 12604 12604 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911
+06-23 20:31:00.123 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911 in: RESUMED
+06-23 20:31:00.123 12604 12604 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@381d911
+06-23 20:31:00.146  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94892519 , only wrote 94892499
+06-23 20:31:00.146  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94892531 , only wrote 94892499
+06-23 20:31:00.162  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94893200 , only wrote 94893160
+06-23 20:31:00.181  1769  2785 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:31:00.201  1769  2785 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:31:00.208 12604 12638 D EGL_emulation: eglMakeCurrent: 0xf357fd00: ver 3 0 (tinfo 0xf35c0da0)
+06-23 20:31:00.225  1769  2786 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:31:00.313  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:31:00.313  2065  4644 I chatty  : uid=1000(system) Binder:2065_1C identical 8 lines
+06-23 20:31:00.313  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:31:00.321  2909  3672 D EGL_emulation: eglMakeCurrent: 0xe011a900: ver 3 0 (tinfo 0xe010f8c0)
+06-23 20:31:00.337  2065  2103 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +368ms
+06-23 20:31:00.342  1769  2786 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:31:00.352  4184  4344 D EGL_emulation: eglMakeCurrent: 0xe011b4a0: ver 3 0 (tinfo 0xe010fcc0)
+06-23 20:31:00.411 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f in: STOPPED
+06-23 20:31:00.411 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3e1d87f
+06-23 20:31:00.448 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-23 20:31:00.481  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:31:00.491  4184 12695 I PBSessionCacheImpl: Deleted sessionId[153998827214] from persistence.
+06-23 20:31:00.516  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:31:00.568  4184  4268 W SearchServiceCore: Abort, client detached.
+06-23 20:31:00.580  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:31:00.598  2240  2530 I chatty  : uid=10110(com.android.systemui) RenderThread identical 1 line
+06-23 20:31:00.615  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:31:00.807 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:31:00.808 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:31:00.813 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230858/com.example.lunchtray:id/chili>
+06-23 20:31:00.988  2065  2078 I system_server: NativeAlloc concurrent copying GC freed 9182(737KB) AllocSpace objects, 6(248KB) LOS objects, 18% free, 26MB/32MB, paused 1.004ms total 462.137ms
+06-23 20:31:01.155  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94936921 , only wrote 94936786
+06-23 20:31:01.305  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94943401 , only wrote 94936786
+06-23 20:31:01.322  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94937547 , only wrote 94937447
+06-23 20:31:01.342 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:31:01.342 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $4.00"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:31:01.347 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231107/com.example.lunchtray:id/pasta>
+06-23 20:31:01.674  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94952988 , only wrote 94949345
+06-23 20:31:01.714  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94951081 , only wrote 94950667
+06-23 20:31:01.800 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:31:01.838  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94956139 , only wrote 94951328
+06-23 20:31:01.860  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94952289 , only wrote 94951989
+06-23 20:31:01.866 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:31:01.895  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94953517 , only wrote 94952650
+06-23 20:31:01.925  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94954004 , only wrote 94953972
+06-23 20:31:02.015  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94957945 , only wrote 94957938
+06-23 20:31:02.016  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94957960 , only wrote 94957938
+06-23 20:31:02.031  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94958604 , only wrote 94958599
+06-23 20:31:02.153  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94963974 , only wrote 94963226
+06-23 20:31:02.156  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94963366 , only wrote 94963226
+06-23 20:31:02.174  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94964033 , only wrote 94963887
+06-23 20:31:02.210  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94965462 , only wrote 94965209
+06-23 20:31:02.274 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231176/com.example.lunchtray:id/skillet>
+06-23 20:31:02.346  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94971222 , only wrote 94969836
+06-23 20:31:02.350  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94969987 , only wrote 94969836
+06-23 20:31:02.395  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94971845 , only wrote 94971819
+06-23 20:31:02.651  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94983076 , only wrote 94983056
+06-23 20:31:02.667  1759  5120 W audio_hw_generic: Not supplying enough data to HAL, expected position 94983770 , only wrote 94983717
+06-23 20:31:02.740 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:31:02.740 12604 12636 I TestRunner: finished: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)

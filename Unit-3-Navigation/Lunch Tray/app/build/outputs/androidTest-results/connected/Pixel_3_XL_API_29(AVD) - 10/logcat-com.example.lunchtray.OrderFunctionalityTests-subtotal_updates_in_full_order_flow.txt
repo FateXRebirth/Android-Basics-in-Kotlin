@@ -1,0 +1,70 @@
+06-23 20:30:37.568 12604 12636 I TestRunner: started: subtotal_updates_in_full_order_flow(com.example.lunchtray.OrderFunctionalityTests)
+06-23 20:30:37.591 12604 12636 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-23 20:30:37.614  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.620  2065  4644 I chatty  : uid=1000(system) Binder:2065_1C identical 38 lines
+06-23 20:30:37.620  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.624 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@147a416
+06-23 20:30:37.657  1769  1819 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:37.670 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: PRE_ON_CREATE
+06-23 20:30:37.670 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:37.678 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: CREATED
+06-23 20:30:37.679 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:37.681 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: STARTED
+06-23 20:30:37.682 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:37.695 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: RESUMED
+06-23 20:30:37.695 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:37.698 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: PAUSED
+06-23 20:30:37.698 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:37.703  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.716  2065  4644 I chatty  : uid=1000(system) Binder:2065_1C identical 48 lines
+06-23 20:30:37.716  2065  4644 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.720 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9e9536d
+06-23 20:30:37.737 12604 12604 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@9d4b969 in: PRE_ON_CREATE
+06-23 20:30:37.738 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-23 20:30:37.747  2065  2099 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.748  2065  2099 I chatty  : uid=1000(system) android.anim identical 8 lines
+06-23 20:30:37.748  2065  2099 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:37.762  4184  4344 D EGL_emulation: eglMakeCurrent: 0xe011b4a0: ver 3 0 (tinfo 0xe010fcc0)
+06-23 20:30:37.763  2909  3672 D EGL_emulation: eglMakeCurrent: 0xe011a900: ver 3 0 (tinfo 0xe010f8c0)
+06-23 20:30:37.779 12604 12604 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@9d4b969 in: CREATED
+06-23 20:30:37.779 12604 12604 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@9d4b969
+06-23 20:30:37.797 12604 12604 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@9d4b969 in: STARTED
+06-23 20:30:37.797 12604 12604 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@9d4b969
+06-23 20:30:37.800 12604 12604 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@9d4b969 in: RESUMED
+06-23 20:30:37.800 12604 12604 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@9d4b969
+06-23 20:30:37.808  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:37.848  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:37.863  1769  1819 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:37.884  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:37.898  1769  1819 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:37.913 12604 12638 D EGL_emulation: eglMakeCurrent: 0xf357fd00: ver 3 0 (tinfo 0xf35c0da0)
+06-23 20:30:37.925  1769  1819 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:37.941  2065  2103 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +330ms
+06-23 20:30:37.948  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:37.981  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:37.988 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231209/com.example.lunchtray:id/start_order_btn>
+06-23 20:30:38.018 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197 in: STOPPED
+06-23 20:30:38.019 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e83c197
+06-23 20:30:38.021  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:38.081  2065  2078 I system_server: NativeAlloc concurrent copying GC freed 9645(743KB) AllocSpace objects, 7(428KB) LOS objects, 18% free, 26MB/32MB, paused 1.625ms total 459.531ms
+06-23 20:30:38.102  4184  9123 I PBSessionCacheImpl: Deleted sessionId[153998827208] from persistence.
+06-23 20:30:38.127  4184  4268 W SearchServiceCore: Abort, client detached.
+06-23 20:30:38.512 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:38.513 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-23 20:30:38.864 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:38.866 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231082/com.example.lunchtray:id/next_button>
+06-23 20:30:38.983  1797  1979 D AF::Track: interceptBuffer: took 206us to intercept 0 tracks
+06-23 20:30:39.317 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:39.319 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231139/com.example.lunchtray:id/salad>
+06-23 20:30:39.664 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:39.665 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $9.50"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:30:39.670 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231082/com.example.lunchtray:id/next_button>
+06-23 20:30:40.086 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-23 20:30:40.448 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:40.450 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:30:40.456 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231082/com.example.lunchtray:id/next_button>
+06-23 20:30:40.552  1797  1979 D AF::Track: interceptBuffer: took 657us to intercept 0 tracks
+06-23 20:30:40.568  1797  1979 D AF::Track: interceptBuffer: took 1678us to intercept 0 tracks
+06-23 20:30:40.861 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:40.864 12604 12604 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231218/com.example.lunchtray:id/subtotal>
+06-23 20:30:40.864 12604 12636 I TestRunner: finished: subtotal_updates_in_full_order_flow(com.example.lunchtray.OrderFunctionalityTests)

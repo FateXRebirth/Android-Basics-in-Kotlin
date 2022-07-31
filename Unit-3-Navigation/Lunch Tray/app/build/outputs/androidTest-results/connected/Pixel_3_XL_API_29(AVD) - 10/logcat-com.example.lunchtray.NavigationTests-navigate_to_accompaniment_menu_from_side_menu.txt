@@ -1,0 +1,93 @@
+06-23 20:30:22.676 12604 12636 I TestRunner: started: navigate_to_accompaniment_menu_from_side_menu(com.example.lunchtray.NavigationTests)
+06-23 20:30:22.693 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@faa6bab in: DESTROYED
+06-23 20:30:22.693 12604 12604 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-23 20:30:22.693 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 6 lines
+06-23 20:30:22.693 12604 12604 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-23 20:30:22.716 12604 12636 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-23 20:30:22.827  2065  2085 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.840  2065  2085 I chatty  : uid=1000(system) Binder:2065_2 identical 28 lines
+06-23 20:30:22.840  2065  2085 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.842 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@2732a98
+06-23 20:30:22.843  2065  2085 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.843  2065  2085 I chatty  : uid=1000(system) Binder:2065_2 identical 8 lines
+06-23 20:30:22.843  2065  2085 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.872  1769  2786 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:22.942 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: PRE_ON_CREATE
+06-23 20:30:22.944 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:22.945 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:22.945 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:22.959 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: CREATED
+06-23 20:30:22.960 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:22.960 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:22.960 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:22.962  2065  2099 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.963  2065  2099 I chatty  : uid=1000(system) android.anim identical 8 lines
+06-23 20:30:22.963  2065  2099 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:22.994  2909  3672 D EGL_emulation: eglMakeCurrent: 0xe011a900: ver 3 0 (tinfo 0xe010f8c0)
+06-23 20:30:23.004  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.007 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: STARTED
+06-23 20:30:23.007 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.008 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.008 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.019  4184  4344 D EGL_emulation: eglMakeCurrent: 0xe011b4a0: ver 3 0 (tinfo 0xe010fcc0)
+06-23 20:30:23.022  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.027 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: RESUMED
+06-23 20:30:23.027 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.028 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.028 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.047  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.065 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: PAUSED
+06-23 20:30:23.068 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.070 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.074 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.077  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.079  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.101  2065  4759 I chatty  : uid=1000(system) Binder:2065_1E identical 38 lines
+06-23 20:30:23.101  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.101  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.110  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.113  2065  4759 I chatty  : uid=1000(system) Binder:2065_1E identical 8 lines
+06-23 20:30:23.113  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.118  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.124 12604 12618 I ample.lunchtra: Background young concurrent copying GC freed 35282(2502KB) AllocSpace objects, 0(0B) LOS objects, 43% free, 3115KB/5491KB, paused 929us total 160.900ms
+06-23 20:30:23.130  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.130  2065  4759 I chatty  : uid=1000(system) Binder:2065_1E identical 8 lines
+06-23 20:30:23.130  2065  4759 W InputReader: Device has associated, but no associated display id.
+06-23 20:30:23.135  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.156 12604 12604 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@a3d3262
+06-23 20:30:23.189 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae in: PRE_ON_CREATE
+06-23 20:30:23.189 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-23 20:30:23.189 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 6 lines
+06-23 20:30:23.189 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-23 20:30:23.189 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-23 20:30:23.201  2240  2530 D EGL_emulation: eglMakeCurrent: 0xe81c4940: ver 3 0 (tinfo 0xdcd41670)
+06-23 20:30:23.225 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae in: CREATED
+06-23 20:30:23.225 12604 12604 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.235 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.235 12604 12604 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.274 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae in: STARTED
+06-23 20:30:23.277 12604 12604 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.279 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.280 12604 12604 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.284 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae in: RESUMED
+06-23 20:30:23.284 12604 12604 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.288 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.288 12604 12604 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@ac012ae
+06-23 20:30:23.359  2065  2103 E memtrack: Couldn't load memtrack module
+06-23 20:30:23.360  2065  2103 W android.os.Debug: failed to get memory consumption info: -1
+06-23 20:30:23.400  4184  9130 I PBSessionCacheImpl: Deleted sessionId[153998827203] from persistence.
+06-23 20:30:23.409  4184  4268 W SearchServiceCore: Abort, client detached.
+06-23 20:30:23.434  1769  2786 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:23.471  1769  2786 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:23.499 12604 12638 D EGL_emulation: eglMakeCurrent: 0xf357fd00: ver 3 0 (tinfo 0xf35c0da0)
+06-23 20:30:23.508  1769  2785 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17051648
+06-23 20:30:23.538  2065  2099 I system_server: IncrementDisableThreadFlip blocked for 18.332ms
+06-23 20:30:23.638  2065  2103 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +799ms
+06-23 20:30:23.872 12604 12604 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1 in: STOPPED
+06-23 20:30:23.873 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.880 12604 12604 I chatty  : uid=10159(com.example.lunchtray) identical 7 lines
+06-23 20:30:23.880 12604 12604 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@b93a2f1
+06-23 20:30:23.907  2065  2078 I system_server: NativeAlloc concurrent copying GC freed 10004(940KB) AllocSpace objects, 2(104KB) LOS objects, 18% free, 26MB/32MB, paused 36.321ms total 1.126s
+06-23 20:30:24.005 12604 12636 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+06-23 20:30:24.014 12604 12604 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231082/com.example.lunchtray:id/next_button>
+06-23 20:30:24.298 12604 12636 I TestRunner: finished: navigate_to_accompaniment_menu_from_side_menu(com.example.lunchtray.NavigationTests)

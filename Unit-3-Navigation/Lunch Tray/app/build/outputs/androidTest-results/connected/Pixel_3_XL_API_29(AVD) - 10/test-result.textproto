@@ -1,0 +1,1160 @@
+# 2022-06-23T12:31:11.691Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 22
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "side_menu_item_content"
+    start_time {
+      seconds: 1655987405
+      nanos: 113000000
+    }
+    end_time {
+      seconds: 1655987406
+      nanos: 511000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "entree_menu_item_content"
+    start_time {
+      seconds: 1655987407
+      nanos: 427000000
+    }
+    end_time {
+      seconds: 1655987408
+      nanos: 214000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "accompaniment_menu_item_content"
+    start_time {
+      seconds: 1655987409
+      nanos: 50000000
+    }
+    end_time {
+      seconds: 1655987409
+      nanos: 648000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout"
+    start_time {
+      seconds: 1655987410
+      nanos: 492000000
+    }
+    end_time {
+      seconds: 1655987411
+      nanos: 720000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_entree_menu"
+    start_time {
+      seconds: 1655987412
+      nanos: 652000000
+    }
+    end_time {
+      seconds: 1655987413
+      nanos: 605000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_checkout_from_accompaniment_menu"
+    start_time {
+      seconds: 1655987414
+      nanos: 509000000
+    }
+    end_time {
+      seconds: 1655987415
+      nanos: 451000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_entree_menu_from_start_order"
+    start_time {
+      seconds: 1655987416
+      nanos: 332000000
+    }
+    end_time {
+      seconds: 1655987417
+      nanos: 552000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout_via_submit"
+    start_time {
+      seconds: 1655987419
+      nanos: 52000000
+    }
+    end_time {
+      seconds: 1655987420
+      nanos: 502000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_accompaniment_menu"
+    start_time {
+      seconds: 1655987421
+      nanos: 509000000
+    }
+    end_time {
+      seconds: 1655987422
+      nanos: 825000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_accompaniment_menu_from_side_menu"
+    start_time {
+      seconds: 1655987423
+      nanos: 886000000
+    }
+    end_time {
+      seconds: 1655987425
+      nanos: 506000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_side_menu"
+    start_time {
+      seconds: 1655987426
+      nanos: 438000000
+    }
+    end_time {
+      seconds: 1655987427
+      nanos: 359000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_side_menu_from_entree_menu"
+    start_time {
+      seconds: 1655987428
+      nanos: 195000000
+    }
+    end_time {
+      seconds: 1655987429
+      nanos: 79000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_side_menu_subtotal"
+    start_time {
+      seconds: 1655987430
+      nanos: 64000000
+    }
+    end_time {
+      seconds: 1655987433
+      nanos: 125000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_side_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_accompaniment_menu"
+    start_time {
+      seconds: 1655987433
+      nanos: 960000000
+    }
+    end_time {
+      seconds: 1655987437
+      nanos: 965000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "subtotal_updates_in_full_order_flow"
+    start_time {
+      seconds: 1655987438
+      nanos: 754000000
+    }
+    end_time {
+      seconds: 1655987442
+      nanos: 48000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_updates_in_full_order_flow.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_snackbar"
+    start_time {
+      seconds: 1655987442
+      nanos: 930000000
+    }
+    end_time {
+      seconds: 1655987446
+      nanos: 348000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-order_snackbar.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_entree_menu"
+    start_time {
+      seconds: 1655987447
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 1655987449
+      nanos: 105000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "subtotal_tax_total_in_checkout"
+    start_time {
+      seconds: 1655987449
+      nanos: 908000000
+    }
+    end_time {
+      seconds: 1655987453
+      nanos: 11000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_tax_total_in_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_accompaniment_menu_subtotal"
+    start_time {
+      seconds: 1655987453
+      nanos: 766000000
+    }
+    end_time {
+      seconds: 1655987455
+      nanos: 705000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_accompaniment_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_side_menu"
+    start_time {
+      seconds: 1655987457
+      nanos: 55000000
+    }
+    end_time {
+      seconds: 1655987459
+      nanos: 968000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_entree_menu_subtotal"
+    start_time {
+      seconds: 1655987461
+      nanos: 106000000
+    }
+    end_time {
+      seconds: 1655987463
+      nanos: 929000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_entree_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_checkout"
+    start_time {
+      seconds: 1655987465
+      nanos: 504000000
+    }
+    end_time {
+      seconds: 1655987470
+      nanos: 307000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/mac/Desktop/Lunch Tray/app/build/outputs/androidTest-results/connected/Pixel_3_XL_API_29(AVD) - 10/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
